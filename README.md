@@ -1,3 +1,2 @@
 # data_scientist_toolbox
-cours
-hello world
+data scientist toolbox class
